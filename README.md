@@ -58,7 +58,7 @@ To build **ArtificalOS**, you'll need the following tools:
 ```bash
 Enter command: info
 Kernel version: 0.0.1
-Developed by: You
+Developed by: AkaruiNeko
 This is a tiny kernel shell.
 ```
 
