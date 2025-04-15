@@ -26,7 +26,7 @@ To build **ArtificalOS**, you'll need the following tools:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ArtificalOS.git
+   git clone https://github.com/BrightCat14/ArtificalOS.git
    cd ArtificalOS
    ```
 
