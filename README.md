@@ -40,12 +40,6 @@ To build **ArtificalOS**, you'll need the following tools:
    qemu-system-x86_64 -cdrom ./artificalos.iso -boot d -m 16
    ```
 
-### Directory Structure
-
-- `src/` – Source code for the kernel.
-- `boot/` – Bootloader code (Grub or custom).
-- `bin/` – Binary output (kernel image, bootable disk image).
-- `docs/` – Documentation and resources.
 
 ## 📜 Available Commands
 
